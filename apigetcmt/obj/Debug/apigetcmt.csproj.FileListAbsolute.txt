@@ -1,0 +1,11 @@
+C:\Users\lavan\Desktop\KTEAM\apigetcmt\apigetcmt\obj\Debug\apigetcmt.csproj.AssemblyReference.cache
+C:\Users\lavan\Desktop\KTEAM\apigetcmt\apigetcmt\obj\Debug\apigetcmt.csproj.CoreCompileInputs.cache
+C:\Users\lavan\Desktop\KTEAM\apigetcmt\apigetcmt\bin\Debug\apigetcmt.exe.config
+C:\Users\lavan\Desktop\KTEAM\apigetcmt\apigetcmt\bin\Debug\apigetcmt.exe
+C:\Users\lavan\Desktop\KTEAM\apigetcmt\apigetcmt\bin\Debug\apigetcmt.pdb
+C:\Users\lavan\Desktop\KTEAM\apigetcmt\apigetcmt\bin\Debug\xNet.dll
+C:\Users\lavan\Desktop\KTEAM\apigetcmt\apigetcmt\obj\Debug\apigetcmt.csproj.CopyComplete
+C:\Users\lavan\Desktop\KTEAM\apigetcmt\apigetcmt\obj\Debug\apigetcmt.exe
+C:\Users\lavan\Desktop\KTEAM\apigetcmt\apigetcmt\obj\Debug\apigetcmt.pdb
+C:\Users\lavan\Desktop\KTEAM\apigetcmt\apigetcmt\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lavan\Desktop\KTEAM\apigetcmt\apigetcmt\bin\Debug\Newtonsoft.Json.xml
